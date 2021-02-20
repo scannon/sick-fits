@@ -1,0 +1,9 @@
+**/node_modules/
+**/.next/
+.build/
+*.log
+*.env
+.DS_Store
+.keystone
+layout.md
+variables.env
